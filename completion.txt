@@ -1,0 +1,1 @@
+This file shows the team effort of the developer and tester to create and merge the files like logo.py,loan.txt,completion.txt to the main branch.
